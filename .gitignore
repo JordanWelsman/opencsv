@@ -10,5 +10,5 @@ test.py
 # Setuptools
 build/
 dist/
-openjson.egg-info/
+opencsv.egg-info/
 **/__pycache__/
